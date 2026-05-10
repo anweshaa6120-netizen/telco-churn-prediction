@@ -12,7 +12,7 @@ Target retention spend on month-to-month customers in their first 6 months
 with upgrade incentives — highest ROI retention segment.
 
 ## Files
-- `notebook.ipynb` — full EDA + model code
+- `CHURN.ipynb` — full EDA + model code
 - `predictions.csv` — model predictions on test set
 - `feature_importance.png` — top 10 churn drivers
 - `eda_plots.png` — 4 business insight charts
