@@ -18,4 +18,4 @@ with upgrade incentives — highest ROI retention segment.
 - `eda_plots.png` — 4 business insight charts
 
 ## Tools
-Python · Pandas · Scikit-learn · Matplotlib · Seaborn · Random Forest
+Python · Pandas · Scikit-learn · Matplotlib · Random Forest
